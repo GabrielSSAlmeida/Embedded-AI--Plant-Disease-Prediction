@@ -1,0 +1,1 @@
+# Embedded-AI---Plant-Disease-Prediction
